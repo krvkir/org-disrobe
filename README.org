@@ -1,0 +1,3 @@
+#+TITLE: Org Disrobe
+
+Show the origins of a symbol at point if it's prettified. Show a LaTeX formula behind its preview if the point is over it.
